@@ -10,8 +10,8 @@ export default {
           imageUrl: 'portfolio',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'Next Js, Tailwind',
-          github: 'https://github.com/painzy740/Profile/',
-          demo: 'https://painzy.web.id/'
+          github: 'https://github.com/Qiee-Developer',
+          demo: 'https://skyx-profile.vercel.app/'
         },
         {
           id: 2,
@@ -19,7 +19,7 @@ export default {
           imageUrl: 'stariesai',
           status: 'Website Artificial Intelligence Chat And Art',
           tech: 'React Js, Tailwind',
-          github: 'https://github.com/painzy740/strai',
+          github: 'https://github.com/Qiee-Developer',
           demo: 'https://staries-ai.painzysite.biz.id/'
         },
         {
