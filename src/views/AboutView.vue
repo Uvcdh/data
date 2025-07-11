@@ -104,7 +104,7 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Painzy. I'm a web developer from Jakarta, West Java. I
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is SkyxCode. I'm a web developer from Medan, West Sumatra. I
             have 1 year of experience in back-end web development.
             I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
             has
