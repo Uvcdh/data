@@ -1,4 +1,4 @@
-# <div align='center'>Kayoko – WhatsApp Bot</div>
+# <div align='center'>SkyxCode Assisten</div>
 
 <div align='center'>
 
@@ -18,22 +18,22 @@
   <a href="https://www.whatsapp.com/">
     <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
   </a>
-  <a href="https://github.com/naruyaizumi">
+  <a href="https://github.com/Qiee-Developer">
     <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
   </a>
-  <a href="https://www.instagram.com/naruyaizumi">
+  <a href="https://www.instagram.com/Qiee-Developer">
     <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-orange?logo=instagram" alt="Instagram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03">
+  <a href="https://skyx-profile.vercel.app">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?logo=whatsapp" alt="WhatsApp Channel"/>
   </a>
-  <a href="https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi">
+  <a href="https://skyx-profile.vercel.app">
     <img src="https://img.shields.io/badge/WhatsApp-Group-blueviolet?logo=whatsapp" alt="WhatsApp Group"/>
   </a>
 </p>
 </div>
 
-## 📝 **Changelog 2 Juli 2025**
+## 📝 **Changelog 7 Juli 2025**
 📦 `Update Fitur & Perbaikan Sistem`
 
 🔧 *Perbaikan (Fixes):*
@@ -57,7 +57,7 @@
 
 ## 📋 Table of Contents
 
-- [📖 Deskripsi](#-kayoko--whatsapp-md-script)
+- [📖 Deskripsi](#-skyx--whatsapp-assisten-script)
 - [📂 Fitur Utama](#-fitur-utama)
 - [🔥 Fitur Populer](#-fitur-populer)
 - [⚙️ Detail Teknis](#-detail-teknis)
@@ -72,7 +72,7 @@
 - [🌐 Public API Providers](#-public-api-providers)
 - [🌸 Arigatou Ne~](#-arigatou-ne)
 
-# ✨ Kayoko – WhatsApp MD Script
+# ✨ Skyx – WhatsApp Assisten Script
 
 🔐 **Secure. Modular. API-Powered.**  
 💡 Dirancang untuk developer, reseller, dan pengguna WhatsApp bot tingkat lanjut yang menginginkan stabilitas, kecepatan, dan struktur kode bersih.
@@ -100,26 +100,26 @@
 
 | Info        | Value                     |
 |-------------|---------------------------|
-| Script Name | `Onikata Kayoko`          |
+| Script Name | `Skyx Assisten`          |
 | Framework   | `@itsukichan/baileys`     |
 | Runtime     | `Node.js v24.2.0`         |
 | License     | Apache License 2.0        |
 
 ## 💰 Harga & Lisensi
 
-💸 **Harga:** Rp 80.000,- (sekali bayar, tanpa biaya bulanan)  
+💸 **Harga:** Rp 40.000,- (sekali bayar, tanpa biaya bulanan)  
 🔓 **Akses:** Lifetime Access + Free Feature Updates  
 📜 **Lisensi:** Apache License 2.0 – *Source Code terbuka, bebas dipelajari dan dikembangkan sendiri*  
 ❗ **Catatan:** Pembelian bersifat final. Tidak ada sistem refund. Pastikan sudah mencoba demo/fitur sebelumnya.
 
 ## 🔗 Kontak & Informasi
 
-- 🌐 **Link Bio**: [naruyaizumi](https://linkbio.co/naruyaizumi)
-- 📧 **Email Support**: `sexystyle088@gmail.com`
-- 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/40766498692)
-- 📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)
-- 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
-- 📷 **Instagram**: [@naruyaizumi](https://instagram.com/naruyaizumi)
+- 🌐 **Link Bio**: [naruyaizumi](https://skyx-profile.vercel.app)
+- 📧 **Email Support**: `contactskyx@gmail.com`
+- 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/6287782517574)
+- 📣 **Channel WA Update**: [Join Channel](https://skyx-profile.vercel.app)
+- 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://skyx-profile.vercel.app)
+- 📷 **Instagram**: [@naruyaizumi](https://instagram.com/Qiee-Developer)
 
 Untuk pertanyaan teknis, bug, atau masukan, kamu bisa langsung kirim lewat email atau DM Instagram.  
 Kita juga punya grup komunitas aktif dan channel update resmi 💌✨
@@ -144,7 +144,7 @@ Ukuran bisa sedikit berbeda tergantung sistem, platform build (`gnu` atau `musl`
 
 ## 📁 Project Structure
 
-Berikut ini struktur direktori utama dari **Kayoko** dan deskripsinya:
+Berikut ini struktur direktori utama dari **SkyX** dan deskripsinya:
 
 | Lokasi / File             | Deskripsi                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -246,7 +246,7 @@ npm start
 ### 🔑 Dapatkan API Key
 
 1. Masuk ke menu **Profile**
-2. Salin bagian `Apikey` — Contoh: `kayoko`
+2. Salin bagian `Apikey` — Contoh: `Skyx`
 
 ### 🌐 Whitelist IP (Wajib Agar API Bisa Diakses)
 
