@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp BOT](https://cloudkuimages.guru/uploads/images/WNG2s0zt.jpg)
+![WhatsApp BOT](https://files.catbox.moe/ivjqbo.jpg)
 
 <!-- Project Badge -->
 <p align="center">
