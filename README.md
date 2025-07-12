@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
   </a>
   <a href="https://github.com/Qiee-Developer">
-    <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
+    <img src="https://img.shields.io/badge/Developer-SkyxCode-ff69b4" alt="Developer"/>
   </a>
   <a href="https://www.instagram.com/Qiee-Developer">
-    <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-orange?logo=instagram" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@qieedev-orange?logo=instagram" alt="Instagram"/>
   </a>
   <a href="https://skyx-profile.vercel.app">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?logo=whatsapp" alt="WhatsApp Channel"/>
