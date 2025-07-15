@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'https://files.catbox.moe/lhtc95.jpg',
+          imageUrl: '/public/img/portfolio-portfolio.png',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'Next Js, Tailwind',
           github: 'https://github.com/Qiee-Developer',
