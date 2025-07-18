@@ -104,16 +104,13 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hallo.. Perkenalkan Nama Saya Rifqi Al Kamil, Sebut Saja Kamil
+            &nbsp; &nbsp; &nbsp; Hallo.. Perkenalkan Nama Saya Rifqi Al Kamil, Sebut Saja Kamil.
             Saya Berasal Dari Sumatra Utara - Kota Medan - Medan Polonia, Saya Bersekolah Di Sma Al Manar Medan Polonia, Yang Memiliki Akreditasi A.
             Saya Masih Berumur 15 Tahun, Dan Tujuan Saya Membuat Web Ini Untuk Memperkenalkan Diri Saya Secara Online.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; Keseharian Saya Selain Sekolah Juga Membuat Berbagai Macam Website Dan Bot, Walaupun Saya Sekolah Tidak Sesuai Dengan
+            Bidang/Kemampuan Saya, Saya Tetap Manjalaninya Dengan Semangat, Saya Ingin Menjadi Developer/Programer Yang Di kenal Banyak Orang, Walaupun Skill Saya Masih Pemula
           </p>
         </div>
 
