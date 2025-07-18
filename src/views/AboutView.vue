@@ -100,7 +100,7 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://files.catbox.moe/6ht79m.jpg" alt="Foto">
+            src="https://files.catbox.moe/cufinr.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
@@ -110,7 +110,7 @@ export default {
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             &nbsp; &nbsp; &nbsp; Keseharian Saya Selain Sekolah Juga Membuat Berbagai Macam Website Dan Bot, Walaupun Saya Sekolah Tidak Sesuai Dengan
-            Bidang/Kemampuan Saya, Saya Tetap Manjalaninya Dengan Semangat, Saya Ingin Menjadi Developer/Programer Yang Di kenal Banyak Orang, Walaupun Skill Saya Masih Pemula
+            Bidang/Kemampuan Saya, Saya Tetap Manjalaninya Dengan Semangat, Dan Saya Ingin Menjadi Developer/Programer Yang Di kenal Banyak Orang, Meskipun Skill Saya Masih Pemula.
           </p>
         </div>
 
