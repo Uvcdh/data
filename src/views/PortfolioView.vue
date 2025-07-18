@@ -7,11 +7,11 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: '/public/img/portfolio-portfolio.png',
+          imageUrl: 'portofolio',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'Next Js, Tailwind',
           github: 'https://github.com/Qiee-Developer',
-          demo: 'https://skyx-profile.vercel.app/'
+          demo: 'https://profile-kamil.vercel.app/'
         },
         {
           id: 2,
@@ -61,9 +61,9 @@ export default {
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
           <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
-          <h4>Past Project Experience</h4>
+          <h4>Project Berjalan</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
-            Explore the projects I've worked on so far</h4>
+            Ayo lihat berbagai project kamil yang menarik tentang website dan ai</h4>
         </div>
       </header>
       <section>
